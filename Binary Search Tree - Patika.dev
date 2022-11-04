@@ -1,11 +1,12 @@
 Proje 3:
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız:
 
-Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
+Büyük olanlar sağında küçük olanlar sağında olacak şekilde başlanır. 5 sola 8 sağ tarafına yazılarak başlanır ve devam edilir:
 
-Root 7'dir. Büyük olanlar sağında küçük olanlar sağında olacak şekilde başlanır. 5 sola 8 sağ tarafına yazılarak başlanır ve devam edilir:
+Root 7'dir. Rootun solunda 5, 8 sağ tarafında bulunur.
 
+  
            7
          /   \
         5     8
