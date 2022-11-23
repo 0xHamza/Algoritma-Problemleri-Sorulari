@@ -15,7 +15,7 @@ Sonuc : "[1, 'a', 'cat', 2, 3, 'dog', 4, 5]"
 
 Verilen listeyi terse cevirme ve içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün
 
-File: [irregular list to flatten.py](nested list reverse.py)
+File: [nested list reverse.py](nested%20list%20reverse.py)
 
 ```
 Ornek liste: "[[1, 2], [3, 4], [5, 6, 7]]"
