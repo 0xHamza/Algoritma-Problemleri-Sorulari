@@ -2,8 +2,12 @@
 
 Irregular halde verilen list'i flatten bir list'e dönüştürme.
 
+[Kod Dosya](irregular%20list%20to%20flatten.py)
+
 ```
-Ornek liste: "[[1,'a',['cat'],2,[[3]]],'dog',4,5]"
+file: irregular list to flatten.py
+
+Örnek : "[[1,'a',['cat'],2,[[3]]],'dog',4,5]"
 Sonuc : "[1, 'a', 'cat', 2, 3, 'dog', 4, 5]"
 ```
 
