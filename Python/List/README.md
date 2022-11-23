@@ -1,4 +1,4 @@
-## 1) IRREGULAR LIST TO FLATTEN LIST
+## 1) IRREGULAR LIST TO FLATTEN LIST - [patika.dev](https://app.patika.dev/courses/python-temel/proje)
 
 Irregular halde verilen list'i flatten bir list'e dönüştürme.
 
@@ -11,7 +11,7 @@ Sonuc : "[1, 'a', 'cat', 2, 3, 'dog', 4, 5]"
 
 ![Flatten](https://github.com/0xHamza/Algoritma-Problemleri-Sorulari/blob/main/Python/List/irregular%20list%20to%20flatten.png)
 
-## 2) Verilen bir listeyi içindeki elemanlarla tersine döndürme.
+## 2) Verilen bir listeyi içindeki elemanlarla tersine döndürme. - [patika.dev](https://app.patika.dev/courses/python-temel/proje)
 
 Verilen listeyi terse cevirme ve içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün
 
