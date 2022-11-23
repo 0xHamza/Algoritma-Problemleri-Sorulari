@@ -22,4 +22,4 @@ Ornek liste: "[[1, 2], [3, 4], [5, 6, 7]]"
 Sonuc : "[[[7, 6, 5], [4, 3], [2, 1]]"
 ```
 
-![Nested Reverse](https://github.com/0xHamza/Algoritma-Problemleri-Sorulari/blob/main/Python/List/nested%20list%20reverse.png)
+![Nested Reverse](https://github.com/0xHamza/Algoritma-Problemleri-Sorulari/blob/main/Python/List/nesed%20list%20reverse.png)
