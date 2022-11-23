@@ -28,6 +28,6 @@ def DifferentCases(strParam):
 print(DifferentCases("BOB loves-coding,for*ever"))
 
 """
-inputs:
-"BOB loves-coding,for*ever"
+input: "BOB loves-coding,for*ever"
+correct: "bobLovesCodingForEver"
 """
