@@ -2,11 +2,9 @@
 
 Irregular halde verilen list'i flatten bir list'e dönüştürme.
 
-[Kod Dosya](irregular%20list%20to%20flatten.py)
+File: [irregular list to flatten.py](irregular%20list%20to%20flatten.py)
 
 ```
-file: irregular list to flatten.py
-
 Örnek : "[[1,'a',['cat'],2,[[3]]],'dog',4,5]"
 Sonuc : "[1, 'a', 'cat', 2, 3, 'dog', 4, 5]"
 ```
@@ -16,6 +14,8 @@ Sonuc : "[1, 'a', 'cat', 2, 3, 'dog', 4, 5]"
 ## 2) Verilen bir listeyi içindeki elemanlarla tersine döndürme.
 
 Verilen listeyi terse cevirme ve içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün
+
+File: [irregular list to flatten.py](nested list reverse.py)
 
 ```
 Ornek liste: "[[1, 2], [3, 4], [5, 6, 7]]"
