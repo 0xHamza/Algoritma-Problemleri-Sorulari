@@ -1,10 +1,7 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 #include <cmath>
 
 using namespace std;
-
-
 
 long int primeFactory(long int sayi){
     
